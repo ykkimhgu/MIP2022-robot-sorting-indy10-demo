@@ -28,12 +28,12 @@ Python code는 카메라의 영상처리 기법을 바탕으로한 외부 데이
 
 본 튜토리얼은 로봇팔 1대와 카메라 1개로 이루어져 상대적으로 구현하기 쉬운 팔레타이징 공정을 먼저 구현한 뒤 검증했습니다. 팔레타이징 공정이란 **물류 작업 시 출하나 보관을 위해 물품을 팔레트(화물 운반대) 위에 적재하는 것**을 의미합니다.
 
-- **[팔레타이징 공정 튜토리얼](https://github.com/Sanghyeon-K/2022-2_MCE_Capstone_AutomationSystem/blob/main/Palletizing%20%5BIndy10%5D/Palletizing%20Demo%20Tutorial.md)**
+- **[팔레타이징 공정 튜토리얼](https://github.com/ykkimhgu/MIP2022-robot-sorting-indy10-demo/tree/main/Palletizing%20%5BIndy10%5D/Palletizing%20Demo%20Tutorial.md)**
 
   
 
 팔레타이징 공정을 성공적으로 구현한 뒤에는 카메라와 컨베이어 벨트를 포함해 보다 많은 외부 장비를 사용하는 자동 분류 및 픽앤플레이스 공정을 구현한 뒤 검증했습니다. 자동 분류 및 픽앤플레이스 공정이란 **사용자가 설정한 조건에 따라 물품을 구분한 뒤 각 물품마다 해당되는 장소로 옮기는 것**을 의미합니다. 
 
-* **[자동 분류 및 픽앤플레이스 공정 튜토리얼](https://github.com/Sanghyeon-K/2022-2_MCE_Capstone_AutomationSystem/blob/main/Automatic%20Classification%20%26%20Pick-and-Place/Automatic%20Classification%20%26%20Pick-and-Place%20Demo%20Tutorial.md)**
+* **[자동 분류 및 픽앤플레이스 공정 튜토리얼](https://github.com/ykkimhgu/MIP2022-robot-sorting-indy10-demo/tree/main/Automatic%20Classification%20%26%20Pick-and-Place/Automatic%20Classification%20%26%20Pick-and-Place%20Demo%20Tutorial.md)**
 
   
